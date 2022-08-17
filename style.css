@@ -10,7 +10,7 @@ body{
  }
 
  h1 {
- 	 "text-align: center"                                                                                                                                                                 
+ 	 text-align: center;                                                                                                                                                                 
  }
 
  p{
@@ -26,13 +26,16 @@ body{
  .itens{
      font-style: italic;
  }
- .beneficios{ 
+ .beneficios { 
         background:#FFFFFF;
         padding:20px;
-h2 {
-    text-align: center;
-
 }
-.imagembenificios{
+
+.h2 {
+    text-align: center;
+}
+
+
+.imagembenificios {
     width: 50;
 }
